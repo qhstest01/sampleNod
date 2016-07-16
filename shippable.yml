@@ -13,11 +13,13 @@ services:
 node_js:
   - 0.10
   
-
+env:
+ - secure: miqDHdbM+qrpreJ3Vkn7OGAFbxtELPJbtDBrltwHKbycLKjgCys6kX0GDm9VVriUCGSAiEchslt1tQv2A5ioatwpDu/YRlmoQ60nr8U0DDzEZOd1GXO0g3n7e64mJZ2DMPZbsj4fqnyNZPlDLodlTKTGOUeSkAjgU9F71gkeRfSOcrZjA9Pd5+Tk4eflPsBGfJEZHlQkresg9dmm1PelDVbX2sXYDWydmtCJv+OUJkWl+ESP2kzPR3+WCCn7Zwpv13oC9TERbaEktXHfg/rEdUGDJsMjZqA5y/PafyUYrt9gL7K3fkwXsUVRLbsxzKIzU/sfjXRugkbw1CFmBuGgSw== 
 
 build:
   ci:
     - node --version
     - sudo apt-get update
+    - echo $key1
     
   
