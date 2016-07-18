@@ -14,8 +14,7 @@ node_js:
   - 0.10
   
 env:
- - secure: miqDHdbM+qrpreJ3Vkn7OGAFbxtELPJbtDBrltwHKbycLKjgCys6kX0GDm9VVriUCGSAiEchslt1tQv2A5ioatwpDu/YRlmoQ60nr8U0DDzEZOd1GXO0g3n7e64mJZ2DMPZbsj4fqnyNZPlDLodlTKTGOUeSkAjgU9F71gkeRfSOcrZjA9Pd5+Tk4eflPsBGfJEZHlQkresg9dmm1PelDVbX2sXYDWydmtCJv+OUJkWl+ESP2kzPR3+WCCn7Zwpv13oC9TERbaEktXHfg/rEdUGDJsMjZqA5y/PafyUYrt9gL7K3fkwXsUVRLbsxzKIzU/sfjXRugkbw1CFmBuGgSw== 
-
+ - secure: FjyVGGgM10FDNsAPf7ivcwGuEnoZa4gkUoIE/itZTKr+vwYWlMDu42PvBUIrPWDva+nlpE1jEn9PyVsaWm431PzwngADQdBvTrJC6HXTM6qtehTKwwiS7gJPULtdgyFvaR3V/zei1TYKm3F0oQuRfZHM6tsyzg0zUcFrByR5jVXRi6yWjJbwHPhzTpevKC5B/y+NrhQQJHFOOOt8DNi35d5WlvX0Cbdqx/5eoamGB8xEyVWUwBPKRK+GHJMDt3txqcMC9cgC5ZihXdMJQZy7rVtGglZWW7yUXOfcTLpYqTOW71vA/4ro2kKKuYs4374yW+WUjxYWTpragvkTqEbmvA== 
 build:
   ci:
     - node --version
